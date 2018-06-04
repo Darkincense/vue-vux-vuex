@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+    font-size: 14px;
+}
+body {
+    padding-bottom: 4.125rem;
+    background: #f0f0f5;
+}
+a {
+    text-decoration: none;
+    /* color: rgb(0, 228, 95); */
+    color: #000;
+}
+img {
+    display: block;
+}
+.font14 {
+    font-size: 14px;
+}
+*:focus { outline: none; }
